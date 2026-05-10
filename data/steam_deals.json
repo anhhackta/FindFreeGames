@@ -1,29 +1,272 @@
 [
   {
+    "id": "steam-0",
+    "title": "Far Far West",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/ffc2ffae5774ee943e6c0e3e6e26ed801e781f29/capsule_231x87_alt_assets_3.jpg?t=1778234595",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3124540/Far_Far_West/"
+  },
+  {
+    "id": "steam-1",
+    "title": "Diablo\u00ae IV",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/498049ac91ea5e17aefa19c7e27ecdcc20e1ea67/capsule_231x87_alt_assets_11.jpg?t=1777501665",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2344520/Diablo_IV/"
+  },
+  {
+    "id": "steam-2",
+    "title": "Call of Duty\u00ae: Black Ops III",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/"
+  },
+  {
+    "id": "steam-3",
+    "title": "Dead as Disco",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg?t=1778394434",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3404260/Dead_as_Disco/"
+  },
+  {
+    "id": "steam-4",
+    "title": "Conan Exiles Enhanced",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/e306c9c1b85d6cbca8f1a132f0888b7163d9b3b1/capsule_231x87_alt_assets_7.jpg?t=1778144715",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/440900/Conan_Exiles_Enhanced/"
+  },
+  {
+    "id": "steam-5",
+    "title": "Rust",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg?t=1776257232",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/252490/Rust/"
+  },
+  {
+    "id": "steam-6",
+    "title": "Baldur's Gate 3",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg?t=1777363040",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/"
+  },
+  {
+    "id": "steam-7",
+    "title": "Stellaris",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/a41fbf837417238359b4972ec96de4d241424292/capsule_231x87_alt_assets_11.jpg?t=1777568448",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/281990/Stellaris/"
+  },
+  {
+    "id": "steam-8",
+    "title": "Everything is Crab: The Animal Evolution Roguelite",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1778230287",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/"
+  },
+  {
+    "id": "steam-9",
+    "title": "Farever",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/c7e5ac753400b3757748edb53360d09684b06680/capsule_231x87_alt_assets_1.jpg?t=1778346609",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3672400/Farever/"
+  },
+  {
     "id": "steam-10",
-    "title": "Portal 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
-    "original_price": "9.99 USD",
-    "final_price": 0,
-    "discount_percent": 100,
-    "url": "https://store.steampowered.com/app/620/Portal_2/"
+    "title": "Kerbal Space Program",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/220200/Kerbal_Space_Program/"
+  },
+  {
+    "id": "steam-11",
+    "title": "Heroes of Might and Magic: Olden Era",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1777899549",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/"
+  },
+  {
+    "id": "steam-12",
+    "title": "UNCHARTED\u2122: Legacy of Thieves Collection",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg?t=1751913411",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/"
+  },
+  {
+    "id": "steam-13",
+    "title": "Librarian: Tidy Up the Arcane Library!",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/f0d3c0ed4a31473df3d912d95b63a1fcc7feef97/capsule_231x87.jpg?t=1777553917",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/"
+  },
+  {
+    "id": "steam-14",
+    "title": "Cities: Skylines II",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/2b264fcfffbdc89083c626e70d8e5f0b352672a9/capsule_231x87.jpg?t=1777568420",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/"
+  },
+  {
+    "id": "steam-15",
+    "title": "R.E.P.O.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/e29789d09be972ea786975695bdde1cc047a76e1/capsule_231x87_alt_assets_2.jpg?t=1778158882",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3241660/REPO/"
+  },
+  {
+    "id": "steam-16",
+    "title": "REANIMAL",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/0e28f1b3446dd979013ca3df83a3ced5d7ca611b/capsule_231x87.jpg?t=1771918402",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
+  },
+  {
+    "id": "steam-17",
+    "title": "Mortal Kombat 1",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1750176505",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1971870/Mortal_Kombat_1/"
+  },
+  {
+    "id": "steam-18",
+    "title": "Alabaster Dawn",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3110760/6d0608220ab5a84b3c7659756416e65e8811a33e/capsule_231x87.jpg?t=1778168918",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3110760/Alabaster_Dawn/"
+  },
+  {
+    "id": "steam-19",
+    "title": "Mixtape",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/49a74db3ec8f153734bf6480ad0e5cf2db29a240/capsule_231x87.jpg?t=1778291163",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2582320/Mixtape/"
   },
   {
     "id": "steam-20",
-    "title": "The Witcher 3: Wild Hunt",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
-    "original_price": "39.99 USD",
-    "final_price": 7.99,
-    "discount_percent": 80,
-    "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+    "title": "Call of Duty\u00ae: Black Ops 7",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606480/e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg?t=1776875198",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/"
   },
   {
-    "id": "steam-30",
-    "title": "Hades",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
-    "original_price": "24.99 USD",
-    "final_price": 9.99,
-    "discount_percent": 60,
-    "url": "https://store.steampowered.com/app/1145360/Hades/"
+    "id": "steam-21",
+    "title": "Hearts of Iron IV",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/08a0a8f6c28071017611aa39b835c193a27f2518/capsule_231x87.jpg?t=1777568442",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/"
+  },
+  {
+    "id": "steam-22",
+    "title": "Star Wars Outlaws",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/9e887b6e39c690a305e509e598a125cbc6b2bd1c/capsule_231x87.jpg?t=1773407100",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2842040/Star_Wars_Outlaws/"
+  },
+  {
+    "id": "steam-23",
+    "title": "MOTORSLICE",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/capsule_231x87.jpg?t=1778341635",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2830030/MOTORSLICE/"
+  },
+  {
+    "id": "steam-24",
+    "title": "Abiotic Factor",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ed1dbe62cd66c9cc573f89b67f2aa196aac64fcb/capsule_231x87_alt_assets_6.jpg?t=1777914035",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/427410/Abiotic_Factor/"
+  },
+  {
+    "id": "steam-25",
+    "title": "Phasmophobia",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/4d832596703e9ee22fd3f6bac50067989757d68d/capsule_231x87_alt_assets_9.jpg?t=1777993469",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/739630/Phasmophobia/"
+  },
+  {
+    "id": "steam-26",
+    "title": "Call of Duty\u00ae: Infinite Warfare",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292730/capsule_231x87.jpg?t=1755558170",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/292730/Call_of_Duty_Infinite_Warfare/"
+  },
+  {
+    "id": "steam-27",
+    "title": "Call to Arms - Gates of Hell: Ostfront",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400750/518ba193aa22508abb7271d972098bbbc4f9a8d4/capsule_231x87.jpg?t=1764717941",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/"
+  },
+  {
+    "id": "steam-28",
+    "title": "Call of Duty\u00ae: Modern Warfare\u00ae",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/capsule_231x87.jpg?t=1776876020",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2000950/Call_of_Duty_Modern_Warfare/"
+  },
+  {
+    "id": "steam-29",
+    "title": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115300/capsule_231x87.jpg?t=1692032509",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/115300/Call_of_Duty_Modern_Warfare_3_2011/"
   }
 ]
