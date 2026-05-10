@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find Free Games</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar panel">
+        <div>
+          <p class="eyebrow">Game Deals Tracker</p>
+          <h1>Find Free Games</h1>
+          <p>Săn game miễn phí và giảm giá sâu từ Epic và Steam theo thời gian thực.</p>
+        </div>
+        <div id="quick-stats" class="quick-stats"></div>
+      </header>
+
+      <section class="toolbar panel">
+        <div class="toolbar-title">Bộ lọc ưu tiên</div>
+        <section class="filters" aria-label="Bộ lọc game">
+          <button class="filter-btn is-active" data-filter="free">Free <span class="pill-count">0</span></button>
+          <button class="filter-btn" data-filter="gt80">Giảm &gt; 80% <span class="pill-count">0</span></button>
+          <button class="filter-btn" data-filter="gt60">Giảm &gt; 60% <span class="pill-count">0</span></button>
+          <button class="filter-btn" data-filter="best">Best Sale</button>
+        </section>
+      </section>
+
+      <section id="status" class="status" aria-live="polite">Dang tai du lieu...</section>
+
+      <section id="game-grid" class="game-grid" aria-label="Danh sách game"></section>
+    </main>
+
+    <dialog id="claim-modal" class="claim-modal">
+      <form method="dialog" class="claim-modal-content">
+        <h2>Huong dan nhan game Epic (F12)</h2>
+        <p>
+          1) Mo trang game tren Epic Store.
+          <br />
+          2) Nhan F12, chuyen sang tab Console.
+          <br />
+          3) Dan script ben duoi va nhan Enter.
+        </p>
+        <textarea id="claim-script" readonly></textarea>
+        <div class="modal-actions">
+          <a id="open-game-btn" target="_blank" rel="noopener noreferrer">Mo trang game</a>
+          <button type="button" id="copy-script-btn">Copy script</button>
+          <button value="cancel">Dong</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

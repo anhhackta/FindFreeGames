@@ -1,0 +1,29 @@
+[
+  {
+    "id": "steam-10",
+    "title": "Portal 2",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "original_price": "9.99 USD",
+    "final_price": 0,
+    "discount_percent": 100,
+    "url": "https://store.steampowered.com/app/620/Portal_2/"
+  },
+  {
+    "id": "steam-20",
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "original_price": "39.99 USD",
+    "final_price": 7.99,
+    "discount_percent": 80,
+    "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+  },
+  {
+    "id": "steam-30",
+    "title": "Hades",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "original_price": "24.99 USD",
+    "final_price": 9.99,
+    "discount_percent": 60,
+    "url": "https://store.steampowered.com/app/1145360/Hades/"
+  }
+]
