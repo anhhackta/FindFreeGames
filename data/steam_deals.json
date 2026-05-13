@@ -2,7 +2,7 @@
   {
     "id": "steam-0",
     "title": "Red Dead Redemption 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -11,7 +11,7 @@
   {
     "id": "steam-1",
     "title": "Subnautica",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg?t=1777456112",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg?t=1777456112",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -20,7 +20,7 @@
   {
     "id": "steam-2",
     "title": "Diablo\u00ae IV",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/498049ac91ea5e17aefa19c7e27ecdcc20e1ea67/capsule_231x87_alt_assets_11.jpg?t=1777501665",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/498049ac91ea5e17aefa19c7e27ecdcc20e1ea67/capsule_231x87_alt_assets_11.jpg?t=1777501665",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -28,53 +28,53 @@
   },
   {
     "id": "steam-3",
-    "title": "Subnautica: Below Zero",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg?t=1777456254",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/"
-  },
-  {
-    "id": "steam-4",
     "title": "Dead as Disco",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg?t=1778394434",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg?t=1778655564",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3404260/Dead_as_Disco/"
   },
   {
-    "id": "steam-5",
+    "id": "steam-4",
     "title": "NBA 2K26",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/356867a38f3bfef003b091766c4eebcf1f994df6/capsule_231x87.jpg?t=1778487166",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/356867a38f3bfef003b091766c4eebcf1f994df6/capsule_231x87.jpg?t=1778487166",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3472040/NBA_2K26/"
   },
   {
-    "id": "steam-6",
-    "title": "Call of Duty\u00ae: Black Ops III",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
+    "id": "steam-5",
+    "title": "Subnautica: Below Zero",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg?t=1777456254",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/"
+    "url": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/"
   },
   {
-    "id": "steam-7",
+    "id": "steam-6",
     "title": "Devil May Cry 5",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
   },
   {
+    "id": "steam-7",
+    "title": "Call of Duty\u00ae: Black Ops III",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/"
+  },
+  {
     "id": "steam-8",
     "title": "Conan Exiles Enhanced",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/e306c9c1b85d6cbca8f1a132f0888b7163d9b3b1/capsule_231x87_alt_assets_7.jpg?t=1778144715",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/e306c9c1b85d6cbca8f1a132f0888b7163d9b3b1/capsule_231x87_alt_assets_7.jpg?t=1778144715",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -82,26 +82,26 @@
   },
   {
     "id": "steam-9",
-    "title": "Nine Sols",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1762838904",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1809540/Nine_Sols/"
-  },
-  {
-    "id": "steam-10",
     "title": "Hell is Us",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1620730/98e4f03b30ee333cd17ae612beca44dc50cccb1b/capsule_231x87.jpg?t=1768404475",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/98e4f03b30ee333cd17ae612beca44dc50cccb1b/capsule_231x87.jpg?t=1768404475",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1620730/Hell_is_Us/"
   },
   {
+    "id": "steam-10",
+    "title": "Nine Sols",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg?t=1762838904",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1809540/Nine_Sols/"
+  },
+  {
     "id": "steam-11",
     "title": "Outbound",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2681030/bd08ddcd2a4ab45d6bec5192f2122aaddee188aa/capsule_231x87.jpg?t=1778519137",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/bd08ddcd2a4ab45d6bec5192f2122aaddee188aa/capsule_231x87.jpg?t=1778658908",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -110,7 +110,7 @@
   {
     "id": "steam-12",
     "title": "Everything is Crab: The Animal Evolution Roguelite",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1778230287",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1778230287",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -119,7 +119,7 @@
   {
     "id": "steam-13",
     "title": "Kerbal Space Program",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -128,7 +128,7 @@
   {
     "id": "steam-14",
     "title": "Librarian: Tidy Up the Arcane Library!",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/f0d3c0ed4a31473df3d912d95b63a1fcc7feef97/capsule_231x87.jpg?t=1777553917",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/f0d3c0ed4a31473df3d912d95b63a1fcc7feef97/capsule_231x87.jpg?t=1777553917",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -137,7 +137,7 @@
   {
     "id": "steam-15",
     "title": "Heroes of Might and Magic: Olden Era",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1777899549",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1777899549",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -145,17 +145,17 @@
   },
   {
     "id": "steam-16",
-    "title": "Borderlands 4",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1778543046",
+    "title": "Battlestar Galactica: Scattered Hopes",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2535950/7cf2487fec9aa332ed2cd7e78abb9243efcbb499/capsule_231x87.jpg?t=1778599517",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1285190/Borderlands_4/"
+    "url": "https://store.steampowered.com/app/2535950/Battlestar_Galactica_Scattered_Hopes/"
   },
   {
     "id": "steam-17",
     "title": "Cities: Skylines II",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/2b264fcfffbdc89083c626e70d8e5f0b352672a9/capsule_231x87.jpg?t=1778587768",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/2b264fcfffbdc89083c626e70d8e5f0b352672a9/capsule_231x87.jpg?t=1778587768",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -163,26 +163,26 @@
   },
   {
     "id": "steam-18",
+    "title": "Borderlands 4",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1778543046",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1285190/Borderlands_4/"
+  },
+  {
+    "id": "steam-19",
     "title": "Kingdom Come: Deliverance II",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg?t=1777975568",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg?t=1777975568",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/"
   },
   {
-    "id": "steam-19",
-    "title": "Battlestar Galactica: Scattered Hopes",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2535950/7cf2487fec9aa332ed2cd7e78abb9243efcbb499/capsule_231x87.jpg?t=1778599517",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2535950/Battlestar_Galactica_Scattered_Hopes/"
-  },
-  {
     "id": "steam-20",
     "title": "Mortal Kombat 1",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1750176505",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/capsule_231x87.jpg?t=1750176505",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -190,26 +190,26 @@
   },
   {
     "id": "steam-21",
-    "title": "Everwind",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2253100/09ec1f97bf4000c563e7738cd726c3e0d5453d31/capsule_231x87.jpg?t=1776347213",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2253100/Everwind/"
-  },
-  {
-    "id": "steam-22",
     "title": "Devil May Cry HD Collection",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/631510/capsule_231x87.jpg?t=1768869867",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/capsule_231x87.jpg?t=1768869867",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/631510/Devil_May_Cry_HD_Collection/"
   },
   {
+    "id": "steam-22",
+    "title": "Everwind",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/09ec1f97bf4000c563e7738cd726c3e0d5453d31/capsule_231x87.jpg?t=1776347213",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2253100/Everwind/"
+  },
+  {
     "id": "steam-23",
     "title": "Devil May Cry 4 Special Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/329050/capsule_231x87.jpg?t=1768869714",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/capsule_231x87.jpg?t=1768869714",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -217,56 +217,56 @@
   },
   {
     "id": "steam-24",
-    "title": "REANIMAL",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/0e28f1b3446dd979013ca3df83a3ced5d7ca611b/capsule_231x87.jpg?t=1771918402",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
-  },
-  {
-    "id": "steam-25",
-    "title": "Phasmophobia",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/0acad9e6b3f2f9bf56bdb96cc8370542fd993b7f/capsule_231x87_alt_assets_10.jpg?t=1778584295",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/739630/Phasmophobia/"
-  },
-  {
-    "id": "steam-26",
     "title": "UNCHARTED\u2122: Legacy of Thieves Collection",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg?t=1778524317",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/capsule_231x87.jpg?t=1778524317",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/"
   },
   {
-    "id": "steam-27",
-    "title": "Farever",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3672400/c7e5ac753400b3757748edb53360d09684b06680/capsule_231x87_alt_assets_1.jpg?t=1778346609",
+    "id": "steam-25",
+    "title": "REANIMAL",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/0e28f1b3446dd979013ca3df83a3ced5d7ca611b/capsule_231x87.jpg?t=1771918402",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3672400/Farever/"
+    "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
+  },
+  {
+    "id": "steam-26",
+    "title": "Phasmophobia",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/0acad9e6b3f2f9bf56bdb96cc8370542fd993b7f/capsule_231x87_alt_assets_10.jpg?t=1778659672",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/739630/Phasmophobia/"
+  },
+  {
+    "id": "steam-27",
+    "title": "DmC: Devil May Cry",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/capsule_231x87.jpg?t=1768870001",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/220440/DmC_Devil_May_Cry/"
   },
   {
     "id": "steam-28",
-    "title": "Call of Duty\u00ae: Black Ops 7",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg?t=1776875198",
+    "title": "MOTORSLICE",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2830030/capsule_231x87.jpg?t=1778341635",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/"
+    "url": "https://store.steampowered.com/app/2830030/MOTORSLICE/"
   },
   {
     "id": "steam-29",
-    "title": "Dying Light: The Beast",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/121bbff32c3e334ffcd3167af007cb8c0513d558/capsule_231x87.jpg?t=1777373421",
+    "title": "Alabaster Dawn",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3110760/6d0608220ab5a84b3c7659756416e65e8811a33e/capsule_231x87.jpg?t=1778168918",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/"
+    "url": "https://store.steampowered.com/app/3110760/Alabaster_Dawn/"
   }
 ]
