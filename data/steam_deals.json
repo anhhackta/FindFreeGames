@@ -2,7 +2,7 @@
   {
     "id": "steam-0",
     "title": "Subnautica",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg?t=1777456112",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg?t=1777456112",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -10,53 +10,53 @@
   },
   {
     "id": "steam-1",
-    "title": "Subnautica: Below Zero",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg?t=1777456254",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/"
-  },
-  {
-    "id": "steam-2",
     "title": "NBA 2K26",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/8496e0023f3b24c9bf87e1459cb9651f5a7a6732/capsule_231x87_alt_assets_5.jpg?t=1778857348",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/8496e0023f3b24c9bf87e1459cb9651f5a7a6732/capsule_231x87_alt_assets_5.jpg?t=1778857348",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3472040/NBA_2K26/"
   },
   {
-    "id": "steam-3",
-    "title": "Red Dead Redemption 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
-  },
-  {
-    "id": "steam-4",
+    "id": "steam-2",
     "title": "Sid Meier's Civilization VII",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/7fb50b83f16989b2a564cdabc7b74a767a6d5fea/capsule_231x87_alt_assets_5.jpg?t=1779206416",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/7fb50b83f16989b2a564cdabc7b74a767a6d5fea/capsule_231x87_alt_assets_5.jpg?t=1779206416",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/"
   },
   {
-    "id": "steam-5",
+    "id": "steam-3",
+    "title": "Subnautica: Below Zero",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg?t=1777456254",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/"
+  },
+  {
+    "id": "steam-4",
     "title": "ARK: Survival Ascended",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1766710980",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1766710980",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/"
   },
   {
+    "id": "steam-5",
+    "title": "Red Dead Redemption 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+  },
+  {
     "id": "steam-6",
     "title": "Call of Duty\u00ae: Black Ops III",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -64,89 +64,89 @@
   },
   {
     "id": "steam-7",
-    "title": "Darkest Dungeon\u00ae II",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg?t=1759351183",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/"
-  },
-  {
-    "id": "steam-8",
-    "title": "MARVEL Cosmic Invasion",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753970/274bd94b49a58b3c3243d63bf4fc72b1be3697f6/capsule_231x87_alt_assets_0.jpg?t=1779116512",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/"
-  },
-  {
-    "id": "steam-9",
     "title": "American Truck Simulator",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/8809b200b3ebdd7fbcdbfdbe6c8f91b2c0ce93df/capsule_231x87.jpg?t=1778774561",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/270880/8809b200b3ebdd7fbcdbfdbe6c8f91b2c0ce93df/capsule_231x87.jpg?t=1778774561",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/270880/American_Truck_Simulator/"
   },
   {
-    "id": "steam-10",
-    "title": "Daemon X Machina: Titanic Scion",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342490/6b22efc1fa8eeeedf5f708946d06bf2e77a886c7/capsule_231x87.jpg?t=1779123309",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1342490/Daemon_X_Machina_Titanic_Scion/"
-  },
-  {
-    "id": "steam-11",
-    "title": "V Rising",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/9b1b1d0c19ed80e9446c6a3ce37e9fdacf7f14c1/capsule_231x87.jpg?t=1776271883",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1604030/V_Rising/"
-  },
-  {
-    "id": "steam-12",
+    "id": "steam-8",
     "title": "Rune Dice",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3542380/be46a7d44676c4b49f3826dd1e176bb532b1e0b3/capsule_231x87.jpg?t=1779202353",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3542380/be46a7d44676c4b49f3826dd1e176bb532b1e0b3/capsule_231x87.jpg?t=1779224748",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3542380/Rune_Dice/"
   },
   {
-    "id": "steam-13",
-    "title": "Dwarf Eats Mountain",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078200/e2441b8799086d49969ea2a8c4cbe612f88ddd30/capsule_231x87.jpg?t=1779117763",
+    "id": "steam-9",
+    "title": "Darkest Dungeon\u00ae II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg?t=1759351183",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/"
+    "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/"
   },
   {
-    "id": "steam-14",
+    "id": "steam-10",
     "title": "Everything is Crab: The Animal Evolution Roguelite",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1779104150",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1779104150",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/"
   },
   {
-    "id": "steam-15",
+    "id": "steam-11",
     "title": "Stardew Valley",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1754692865",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1754692865",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/413150/Stardew_Valley/"
   },
   {
+    "id": "steam-12",
+    "title": "V Rising",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604030/9b1b1d0c19ed80e9446c6a3ce37e9fdacf7f14c1/capsule_231x87.jpg?t=1776271883",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1604030/V_Rising/"
+  },
+  {
+    "id": "steam-13",
+    "title": "MARVEL Cosmic Invasion",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2753970/274bd94b49a58b3c3243d63bf4fc72b1be3697f6/capsule_231x87_alt_assets_0.jpg?t=1779116512",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/"
+  },
+  {
+    "id": "steam-14",
+    "title": "Dwarf Eats Mountain",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078200/e2441b8799086d49969ea2a8c4cbe612f88ddd30/capsule_231x87.jpg?t=1779117763",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/"
+  },
+  {
+    "id": "steam-15",
+    "title": "PEAK",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1775581133",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3527290/PEAK/"
+  },
+  {
     "id": "steam-16",
     "title": "MISERY",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/9ac5fcd5ec0de485a101d31385aeb4c7ca6fdbd5/capsule_231x87.jpg?t=1779043039",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2119830/9ac5fcd5ec0de485a101d31385aeb4c7ca6fdbd5/capsule_231x87.jpg?t=1779043039",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -154,62 +154,62 @@
   },
   {
     "id": "steam-17",
-    "title": "Hell Let Loose: Vietnam",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/fafbea801ff2a4945f59cd1fc045cbf3a9f43cd4/capsule_231x87.jpg?t=1778865724",
+    "title": "Daemon X Machina: Titanic Scion",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342490/6b22efc1fa8eeeedf5f708946d06bf2e77a886c7/capsule_231x87.jpg?t=1779123309",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/"
+    "url": "https://store.steampowered.com/app/1342490/Daemon_X_Machina_Titanic_Scion/"
   },
   {
     "id": "steam-18",
-    "title": "Space Haven",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/54abf3d574c310a2e73cd89734fb4cbd3b6a21ff/capsule_231x87.jpg?t=1778684449",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/979110/Space_Haven/"
-  },
-  {
-    "id": "steam-19",
-    "title": "Farever",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3672400/c7e5ac753400b3757748edb53360d09684b06680/capsule_231x87_alt_assets_1.jpg?t=1778346609",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3672400/Farever/"
-  },
-  {
-    "id": "steam-20",
-    "title": "PEAK",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1775581133",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3527290/PEAK/"
-  },
-  {
-    "id": "steam-21",
-    "title": "BioShock Infinite",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/8870/BioShock_Infinite/"
-  },
-  {
-    "id": "steam-22",
     "title": "Devil May Cry 5",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
   },
   {
+    "id": "steam-19",
+    "title": "Hell Let Loose: Vietnam",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3079210/fafbea801ff2a4945f59cd1fc045cbf3a9f43cd4/capsule_231x87.jpg?t=1778865724",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/"
+  },
+  {
+    "id": "steam-20",
+    "title": "Farever",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3672400/c7e5ac753400b3757748edb53360d09684b06680/capsule_231x87_alt_assets_1.jpg?t=1778346609",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3672400/Farever/"
+  },
+  {
+    "id": "steam-21",
+    "title": "Space Haven",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979110/54abf3d574c310a2e73cd89734fb4cbd3b6a21ff/capsule_231x87.jpg?t=1778684449",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/979110/Space_Haven/"
+  },
+  {
+    "id": "steam-22",
+    "title": "Call of Duty\u00ae: Black Ops 7",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg?t=1778886426",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/"
+  },
+  {
     "id": "steam-23",
     "title": "Borderlands 4",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1779139227",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1779139227",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -217,56 +217,56 @@
   },
   {
     "id": "steam-24",
-    "title": "Call of Duty\u00ae: Black Ops 7",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606480/e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg?t=1778886426",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/"
-  },
-  {
-    "id": "steam-25",
-    "title": "The Last Caretaker",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783560/dcaa9aff0db0632022654b5be34ec1e728467c1b/capsule_231x87.jpg?t=1778670011",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1783560/The_Last_Caretaker/"
-  },
-  {
-    "id": "steam-26",
-    "title": "Clair Obscur: Expedition 33",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/001d4a5d81e4bb9055b789240e78e04ef6e6da38/capsule_231x87.jpg?t=1773676780",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/"
-  },
-  {
-    "id": "steam-27",
-    "title": "Gray Zone Warfare",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/98a7afd24071040c96f6010b798b88ccacb62038/capsule_231x87.jpg?t=1776944378",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/"
-  },
-  {
-    "id": "steam-28",
     "title": "Dune: Awakening",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/1122dbb1046ee63f4dc8d7da1355f5d3d31f0fa0/capsule_231x87.jpg?t=1779198223",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/1122dbb1046ee63f4dc8d7da1355f5d3d31f0fa0/capsule_231x87.jpg?t=1779198223",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1172710/Dune_Awakening/"
   },
   {
-    "id": "steam-29",
-    "title": "Thrifty Business",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693650/b2f63edbd77db1ab5631be1c9e331b117c67255d/capsule_231x87.jpg?t=1779124564",
+    "id": "steam-25",
+    "title": "BioShock Infinite",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3693650/Thrifty_Business/"
+    "url": "https://store.steampowered.com/app/8870/BioShock_Infinite/"
+  },
+  {
+    "id": "steam-26",
+    "title": "Gray Zone Warfare",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/98a7afd24071040c96f6010b798b88ccacb62038/capsule_231x87.jpg?t=1776944378",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/"
+  },
+  {
+    "id": "steam-27",
+    "title": "Deep Rock Galactic",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548430/capsule_231x87.jpg?t=1775555380",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/"
+  },
+  {
+    "id": "steam-28",
+    "title": "Clair Obscur: Expedition 33",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/001d4a5d81e4bb9055b789240e78e04ef6e6da38/capsule_231x87.jpg?t=1773676780",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/"
+  },
+  {
+    "id": "steam-29",
+    "title": "Berry Bury Berry",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3370870/14e893d4a56d439164f6ffd7c43960464d4dfa71/capsule_231x87.jpg?t=1779122241",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3370870/Berry_Bury_Berry/"
   }
 ]
