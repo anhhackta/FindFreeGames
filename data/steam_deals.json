@@ -1,6 +1,24 @@
 [
   {
     "id": "steam-0",
+    "title": "Total War: WARHAMMER III",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg?t=1779383581",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/"
+  },
+  {
+    "id": "steam-1",
+    "title": "Warhammer 40,000: Space Marine 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/7839e72c1803cadbcd21dc8df4760bc7bcf70354/capsule_231x87_alt_assets_12.jpg?t=1779381523",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/"
+  },
+  {
+    "id": "steam-2",
     "title": "Subnautica",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg?t=1777456112",
     "original_price": "N/A",
@@ -9,16 +27,16 @@
     "url": "https://store.steampowered.com/app/264710/Subnautica/"
   },
   {
-    "id": "steam-1",
-    "title": "Warhammer 40,000: Space Marine 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/capsule_231x87.jpg?t=1779377606",
+    "id": "steam-3",
+    "title": "Warhammer 40,000: Mechanicus II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2532480/a8f39ab4f0c8c79496bd16e6101f6014290395c0/capsule_231x87.jpg?t=1779383649",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/"
+    "url": "https://store.steampowered.com/app/2532480/Warhammer_40000_Mechanicus_II/"
   },
   {
-    "id": "steam-2",
+    "id": "steam-4",
     "title": "ARK: Survival Ascended",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1779293241",
     "original_price": "N/A",
@@ -27,7 +45,7 @@
     "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/"
   },
   {
-    "id": "steam-3",
+    "id": "steam-5",
     "title": "NBA 2K26",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/8496e0023f3b24c9bf87e1459cb9651f5a7a6732/capsule_231x87_alt_assets_5.jpg?t=1778857348",
     "original_price": "N/A",
@@ -36,25 +54,34 @@
     "url": "https://store.steampowered.com/app/3472040/NBA_2K26/"
   },
   {
-    "id": "steam-4",
+    "id": "steam-6",
     "title": "House Flipper 2",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/7fdfb8e286b041ea3fe3daf732d9821ad55eca41/capsule_231x87_alt_assets_11.jpg?t=1779371708",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/7fdfb8e286b041ea3fe3daf732d9821ad55eca41/capsule_231x87_alt_assets_11.jpg?t=1779388155",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1190970/House_Flipper_2/"
   },
   {
-    "id": "steam-5",
-    "title": "Sid Meier's Civilization VII",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/7fb50b83f16989b2a564cdabc7b74a767a6d5fea/capsule_231x87_alt_assets_5.jpg?t=1779206416",
+    "id": "steam-7",
+    "title": "Warhammer 40,000: Rogue Trader",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2186680/ab031cfd5cf227ae2ec17b0ba93c468ec7c06978/capsule_231x87.jpg?t=1779385077",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/"
+    "url": "https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/"
   },
   {
-    "id": "steam-6",
+    "id": "steam-8",
+    "title": "Warhammer 40,000: Darktide",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/5ae0af3f9d4f6b3f560e3003ce0c5c5e6561e1ea/capsule_231x87_alt_assets_19.jpg?t=1779390123",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/"
+  },
+  {
+    "id": "steam-9",
     "title": "Subnautica: Below Zero",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg?t=1777456254",
     "original_price": "N/A",
@@ -63,16 +90,7 @@
     "url": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/"
   },
   {
-    "id": "steam-7",
-    "title": "House Flipper 2 - Sakura DLC",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4351410/985eb9edb9f65bc80f3f6c7077fe87e86e14c1ef/capsule_231x87.jpg?t=1779369847",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/4351410/House_Flipper_2__Sakura_DLC/"
-  },
-  {
-    "id": "steam-8",
+    "id": "steam-10",
     "title": "Red Dead Redemption 2",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
     "original_price": "N/A",
@@ -81,16 +99,43 @@
     "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
   },
   {
-    "id": "steam-9",
-    "title": "Call of Duty\u00ae: Black Ops III",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg?t=1748022663",
+    "id": "steam-11",
+    "title": "Sid Meier's Civilization VII",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/7fb50b83f16989b2a564cdabc7b74a767a6d5fea/capsule_231x87_alt_assets_5.jpg?t=1779206416",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/"
+    "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/"
   },
   {
-    "id": "steam-10",
+    "id": "steam-12",
+    "title": "House Flipper 2 - Sakura DLC",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4351410/985eb9edb9f65bc80f3f6c7077fe87e86e14c1ef/capsule_231x87.jpg?t=1779369847",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/4351410/House_Flipper_2__Sakura_DLC/"
+  },
+  {
+    "id": "steam-13",
+    "title": "Diablo II: Resurrected \u2013 Infernal Edition",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/2a400c5821131f4525919029b03adf1168fdffd3/capsule_231x87.jpg?t=1774399170",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2536520/Diablo_II_Resurrected__Infernal_Edition/"
+  },
+  {
+    "id": "steam-14",
+    "title": "Warhammer 40,000: Dawn of War IV",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2272360/757cc62c08893629266bade6bedf395d25dc008f/capsule_231x87_alt_assets_0.jpg?t=1779383431",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2272360/Warhammer_40000_Dawn_of_War_IV/"
+  },
+  {
+    "id": "steam-15",
     "title": "American Truck Simulator",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/270880/8809b200b3ebdd7fbcdbfdbe6c8f91b2c0ce93df/capsule_231x87.jpg?t=1778774561",
     "original_price": "N/A",
@@ -99,16 +144,25 @@
     "url": "https://store.steampowered.com/app/270880/American_Truck_Simulator/"
   },
   {
-    "id": "steam-11",
-    "title": "Stardew Valley",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1754692865",
+    "id": "steam-16",
+    "title": "Risk of Rain 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1775753930",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+    "url": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/"
   },
   {
-    "id": "steam-12",
+    "id": "steam-17",
+    "title": "Warhammer 40,000: Battlesector",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295500/336c5074a02e48075144a862e817e84307fbcfc2/capsule_231x87.jpg?t=1779382206",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1295500/Warhammer_40000_Battlesector/"
+  },
+  {
+    "id": "steam-18",
     "title": "Rune Dice",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3542380/be46a7d44676c4b49f3826dd1e176bb532b1e0b3/capsule_231x87.jpg?t=1779267089",
     "original_price": "N/A",
@@ -117,7 +171,7 @@
     "url": "https://store.steampowered.com/app/3542380/Rune_Dice/"
   },
   {
-    "id": "steam-13",
+    "id": "steam-19",
     "title": "Stray",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/capsule_231x87.jpg?t=1733260906",
     "original_price": "N/A",
@@ -126,16 +180,7 @@
     "url": "https://store.steampowered.com/app/1332010/Stray/"
   },
   {
-    "id": "steam-14",
-    "title": "Darkest Dungeon\u00ae II",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg?t=1759351183",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/"
-  },
-  {
-    "id": "steam-15",
+    "id": "steam-20",
     "title": "Everything is Crab: The Animal Evolution Roguelite",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3526710/c2d4ec993a1958fcbeae3a1b8bd71c0bab7f941b/capsule_231x87.jpg?t=1779351419",
     "original_price": "N/A",
@@ -144,34 +189,52 @@
     "url": "https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/"
   },
   {
-    "id": "steam-16",
-    "title": "V Rising",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604030/9b1b1d0c19ed80e9446c6a3ce37e9fdacf7f14c1/capsule_231x87.jpg?t=1776271883",
+    "id": "steam-21",
+    "title": "The Outlast Trials",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/0006315ae2565f31c7675488766cccbc79fc34a8/capsule_231x87_alt_assets_2.jpg?t=1779221190",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1604030/V_Rising/"
+    "url": "https://store.steampowered.com/app/1304930/The_Outlast_Trials/"
   },
   {
-    "id": "steam-17",
-    "title": "Devil May Cry 5",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
+    "id": "steam-22",
+    "title": "Planet Coaster 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2688950/capsule_231x87.jpg?t=1777478529",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
+    "url": "https://store.steampowered.com/app/2688950/Planet_Coaster_2/"
   },
   {
-    "id": "steam-18",
-    "title": "MISERY",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2119830/9ac5fcd5ec0de485a101d31385aeb4c7ca6fdbd5/capsule_231x87.jpg?t=1779043039",
+    "id": "steam-23",
+    "title": "Darkest Dungeon\u00ae II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg?t=1759351183",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2119830/MISERY/"
+    "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/"
   },
   {
-    "id": "steam-19",
+    "id": "steam-24",
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/7db6a6cc6410a5d9e0c3c3b40a9ddb2b74bf575c/capsule_231x87.jpg?t=1779382255",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/"
+  },
+  {
+    "id": "steam-25",
+    "title": "Total War: WARHAMMER II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/capsule_231x87.jpg?t=1779383782",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/"
+  },
+  {
+    "id": "steam-26",
     "title": "PEAK",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1775581133",
     "original_price": "N/A",
@@ -180,93 +243,30 @@
     "url": "https://store.steampowered.com/app/3527290/PEAK/"
   },
   {
-    "id": "steam-20",
+    "id": "steam-27",
     "title": "Borderlands 4",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1779139227",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/7f4b1a9cbe01d19fdcbf10ef5dce492098ef0ba8/capsule_231x87.jpg?t=1779392705",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1285190/Borderlands_4/"
   },
   {
-    "id": "steam-21",
-    "title": "Warhammer 40,000: Darktide",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/611c940039ef84ed8f18410b3fba99171ea0ce66/capsule_231x87.jpg?t=1775524225",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/"
-  },
-  {
-    "id": "steam-22",
-    "title": "Hell Let Loose: Vietnam",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3079210/fafbea801ff2a4945f59cd1fc045cbf3a9f43cd4/capsule_231x87.jpg?t=1779374157",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/"
-  },
-  {
-    "id": "steam-23",
-    "title": "Dune: Awakening",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172710/1122dbb1046ee63f4dc8d7da1355f5d3d31f0fa0/capsule_231x87.jpg?t=1779198223",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1172710/Dune_Awakening/"
-  },
-  {
-    "id": "steam-24",
-    "title": "Call of Duty\u00ae: Black Ops 7",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg?t=1778886426",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/"
-  },
-  {
-    "id": "steam-25",
-    "title": "Gray Zone Warfare",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/98a7afd24071040c96f6010b798b88ccacb62038/capsule_231x87.jpg?t=1776944378",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/"
-  },
-  {
-    "id": "steam-26",
-    "title": "The Last Caretaker",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1783560/dcaa9aff0db0632022654b5be34ec1e728467c1b/capsule_231x87.jpg?t=1778670011",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1783560/The_Last_Caretaker/"
-  },
-  {
-    "id": "steam-27",
-    "title": "Phonopolis",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206070/eaf4088286084079a50063faf920ccd330de15ed/capsule_231x87.jpg?t=1779285913",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1206070/Phonopolis/"
-  },
-  {
     "id": "steam-28",
-    "title": "MARVEL Cosmic Invasion",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2753970/274bd94b49a58b3c3243d63bf4fc72b1be3697f6/capsule_231x87_alt_assets_0.jpg?t=1779116512",
+    "title": "Devil May Cry 5",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/capsule_231x87.jpg?t=1768869803",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/"
+    "url": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
   },
   {
     "id": "steam-29",
-    "title": "Dying Light: The Beast",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/121bbff32c3e334ffcd3167af007cb8c0513d558/capsule_231x87.jpg?t=1777373421",
+    "title": "Luna Abyss",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933000/3160a681955ff6f1b80fd681a9207fdcd2907a03/capsule_231x87.jpg?t=1779377354",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/"
+    "url": "https://store.steampowered.com/app/1933000/Luna_Abyss/"
   }
 ]
