@@ -2,7 +2,7 @@
   {
     "id": "steam-0",
     "title": "Paralives",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/13d15d732cf142a4546bf749ef587e5e6e6acd64/capsule_231x87.jpg?t=1779721278",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118520/13d15d732cf142a4546bf749ef587e5e6e6acd64/capsule_231x87.jpg?t=1779721278",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -11,7 +11,7 @@
   {
     "id": "steam-1",
     "title": "Warhammer 40,000: Space Marine 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/7839e72c1803cadbcd21dc8df4760bc7bcf70354/capsule_231x87_alt_assets_12.jpg?t=1779872742",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/7839e72c1803cadbcd21dc8df4760bc7bcf70354/capsule_231x87_alt_assets_12.jpg?t=1779872742",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -19,44 +19,44 @@
   },
   {
     "id": "steam-2",
-    "title": "Starminer",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116050/b436ed1d410e608f105dc696b619a8469658b3b1/capsule_231x87.jpg?t=1779896765",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1116050/Starminer/"
-  },
-  {
-    "id": "steam-3",
     "title": "TEKKEN 8",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/capsule_231x87.jpg?t=1779923026",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/capsule_231x87.jpg?t=1779923026",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1778820/TEKKEN_8/"
   },
   {
-    "id": "steam-4",
-    "title": "Total War: WARHAMMER III",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg?t=1779441058",
+    "id": "steam-3",
+    "title": "Starminer",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1116050/b436ed1d410e608f105dc696b619a8469658b3b1/capsule_231x87.jpg?t=1779896765",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/"
+    "url": "https://store.steampowered.com/app/1116050/Starminer/"
   },
   {
-    "id": "steam-5",
+    "id": "steam-4",
     "title": "No Man's Sky",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/511f1fe1e14059ee0d5cb96166066d9ecd1efe79/capsule_231x87_alt_assets_25.jpg?t=1779908213",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/511f1fe1e14059ee0d5cb96166066d9ecd1efe79/capsule_231x87_alt_assets_25.jpg?t=1779908213",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/"
   },
   {
+    "id": "steam-5",
+    "title": "Ready or Not",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/b30c23f2ed6bb199a0ee33ef8e78ab25bcc1b050/capsule_231x87_alt_assets_0.jpg?t=1779907126",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/"
+  },
+  {
     "id": "steam-6",
     "title": "Kingdom Come: Deliverance II",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg?t=1777975568",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg?t=1777975568",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -64,26 +64,26 @@
   },
   {
     "id": "steam-7",
-    "title": "The Outlast Trials",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/0006315ae2565f31c7675488766cccbc79fc34a8/capsule_231x87_alt_assets_2.jpg?t=1779221190",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1304930/The_Outlast_Trials/"
-  },
-  {
-    "id": "steam-8",
     "title": "Grand Theft Auto V Enhanced",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg?t=1765479644",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg?t=1765479644",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
   },
   {
+    "id": "steam-8",
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1753715778",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
+  },
+  {
     "id": "steam-9",
     "title": "ARK: Survival Ascended",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1779293241",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1779293241",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -91,53 +91,53 @@
   },
   {
     "id": "steam-10",
+    "title": "Crashout Crew",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3583210/8c72003fa9b495893d862479f99c361ab647ded6/capsule_231x87.jpg?t=1779978529",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/3583210/Crashout_Crew/"
+  },
+  {
+    "id": "steam-11",
+    "title": "The Elder Scrolls\u00ae Online",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306130/709104c8f18e2ec1948745345d7bfcb52611362c/capsule_231x87.jpg?t=1779374516",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/"
+  },
+  {
+    "id": "steam-12",
     "title": "Hogwarts Legacy",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg?t=1778797474",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg?t=1778797474",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/"
   },
   {
-    "id": "steam-11",
+    "id": "steam-13",
     "title": "Esoteric Ebb",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/0c8f3c4b30a022b6ce816096db0dfd385199226b/capsule_231x87.jpg?t=1776091835",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2057760/0c8f3c4b30a022b6ce816096db0dfd385199226b/capsule_231x87.jpg?t=1776091835",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/2057760/Esoteric_Ebb/"
   },
   {
-    "id": "steam-12",
+    "id": "steam-14",
     "title": "Warhammer 40,000: Darktide",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/5ae0af3f9d4f6b3f560e3003ce0c5c5e6561e1ea/capsule_231x87_alt_assets_19.jpg?t=1779439171",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/5ae0af3f9d4f6b3f560e3003ce0c5c5e6561e1ea/capsule_231x87_alt_assets_19.jpg?t=1779439171",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/"
   },
   {
-    "id": "steam-13",
-    "title": "Kenshi",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/050649252f4e28567deeeb17cf4834e52665db05/capsule_231x87.jpg?t=1779293333",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/233860/Kenshi/"
-  },
-  {
-    "id": "steam-14",
-    "title": "Warhammer 40,000: Rogue Trader",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ab031cfd5cf227ae2ec17b0ba93c468ec7c06978/capsule_231x87.jpg?t=1779385077",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/"
-  },
-  {
     "id": "steam-15",
     "title": "Risk of Rain 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1775753930",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87.jpg?t=1775753930",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -146,7 +146,7 @@
   {
     "id": "steam-16",
     "title": "House Flipper 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/7fdfb8e286b041ea3fe3daf732d9821ad55eca41/capsule_231x87_alt_assets_11.jpg?t=1779979060",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/7fdfb8e286b041ea3fe3daf732d9821ad55eca41/capsule_231x87_alt_assets_11.jpg?t=1779979060",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -154,53 +154,53 @@
   },
   {
     "id": "steam-17",
-    "title": "Romestead",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/33759952b7faa7b9fe2707104f7fe14660854db9/capsule_231x87.jpg?t=1779978440",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1805320/Romestead/"
-  },
-  {
-    "id": "steam-18",
-    "title": "LumenTale: Memories of Trey",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261430/d6f6fb11b0aef400ad0f3f6012d4f7e366671e10/capsule_231x87.jpg?t=1779873419",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/"
-  },
-  {
-    "id": "steam-19",
     "title": "Hell Let Loose: Vietnam",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/fafbea801ff2a4945f59cd1fc045cbf3a9f43cd4/capsule_231x87.jpg?t=1779813493",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3079210/fafbea801ff2a4945f59cd1fc045cbf3a9f43cd4/capsule_231x87.jpg?t=1779813493",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/"
   },
   {
-    "id": "steam-20",
-    "title": "Assassin\u2019s Creed Shadows",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/fe6c8f40f405c8bb3a05788d1316ebd8e3c31b6a/capsule_231x87.jpg?t=1775589420",
+    "id": "steam-18",
+    "title": "DRAGON QUEST I & II HD-2D Remake",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2893570/5223489b1b3f4a4ab04e01699394021e147fdfcf/capsule_231x87.jpg?t=1773044632",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/"
+    "url": "https://store.steampowered.com/app/2893570/DRAGON_QUEST_I__II_HD2D_Remake/"
+  },
+  {
+    "id": "steam-19",
+    "title": "Kenshi",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233860/050649252f4e28567deeeb17cf4834e52665db05/capsule_231x87.jpg?t=1779293333",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/233860/Kenshi/"
+  },
+  {
+    "id": "steam-20",
+    "title": "LumenTale: Memories of Trey",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2261430/d6f6fb11b0aef400ad0f3f6012d4f7e366671e10/capsule_231x87.jpg?t=1779873419",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/"
   },
   {
     "id": "steam-21",
-    "title": "Outer Wilds",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/c3b501a7177b6c902c69565366d4c5f4b82f23fe/capsule_231x87.jpg?t=1779137571",
+    "title": "Romestead",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1805320/33759952b7faa7b9fe2707104f7fe14660854db9/capsule_231x87.jpg?t=1779978440",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/753640/Outer_Wilds/"
+    "url": "https://store.steampowered.com/app/1805320/Romestead/"
   },
   {
     "id": "steam-22",
     "title": "Blue Prince",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/4f81a42ebaca088b16d5501914c6885e49f6c411/capsule_231x87.jpg?t=1776265019",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/4f81a42ebaca088b16d5501914c6885e49f6c411/capsule_231x87.jpg?t=1776265019",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
@@ -208,65 +208,65 @@
   },
   {
     "id": "steam-23",
-    "title": "Tom Clancy\u2019s The Division\u00ae 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/a5b68a9d1791bcb4b99b86db96f46e6ecfe9e3df/capsule_231x87_alt_assets_5.jpg?t=1778172597",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/"
-  },
-  {
-    "id": "steam-24",
-    "title": "Sid Meier's Civilization VII",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/bb36e93ceea3d682dfca19203368030e81f325ec/capsule_231x87_alt_assets_5.jpg?t=1779464366",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/"
-  },
-  {
-    "id": "steam-25",
-    "title": "DRAGON QUEST I & II HD-2D Remake",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/5223489b1b3f4a4ab04e01699394021e147fdfcf/capsule_231x87.jpg?t=1773044632",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/2893570/DRAGON_QUEST_I__II_HD2D_Remake/"
-  },
-  {
-    "id": "steam-26",
-    "title": "Teamfight Manager 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009300/22a695164eb3a76e44d4183a4dd492d2f1b4a7a0/capsule_231x87.jpg?t=1779952072",
-    "original_price": "N/A",
-    "final_price": 0.0,
-    "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3009300/Teamfight_Manager_2/"
-  },
-  {
-    "id": "steam-27",
     "title": "Scale the Depths",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198890/a995e1d1cff0a50782cdb928facd6fb8233123eb/capsule_231x87.jpg?t=1779982706",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3198890/a995e1d1cff0a50782cdb928facd6fb8233123eb/capsule_231x87.jpg?t=1779991276",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
     "url": "https://store.steampowered.com/app/3198890/Scale_the_Depths/"
   },
   {
-    "id": "steam-28",
-    "title": "Crashout Crew",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/8c72003fa9b495893d862479f99c361ab647ded6/capsule_231x87.jpg?t=1779978529",
+    "id": "steam-24",
+    "title": "Assassin\u2019s Creed Shadows",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/fe6c8f40f405c8bb3a05788d1316ebd8e3c31b6a/capsule_231x87.jpg?t=1775589420",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/3583210/Crashout_Crew/"
+    "url": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/"
+  },
+  {
+    "id": "steam-25",
+    "title": "Sid Meier's Civilization VII",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/bb36e93ceea3d682dfca19203368030e81f325ec/capsule_231x87_alt_assets_5.jpg?t=1779464366",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/"
+  },
+  {
+    "id": "steam-26",
+    "title": "Tom Clancy\u2019s The Division\u00ae 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2221490/a5b68a9d1791bcb4b99b86db96f46e6ecfe9e3df/capsule_231x87_alt_assets_5.jpg?t=1778172597",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/"
+  },
+  {
+    "id": "steam-27",
+    "title": "Outer Wilds",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/c3b501a7177b6c902c69565366d4c5f4b82f23fe/capsule_231x87.jpg?t=1779137571",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/753640/Outer_Wilds/"
+  },
+  {
+    "id": "steam-28",
+    "title": "Escape the Backrooms",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/28626087167f428b92a79d4c319e19707fe22dae/capsule_231x87.jpg?t=1779966318",
+    "original_price": "N/A",
+    "final_price": 0.0,
+    "discount_percent": 0,
+    "url": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/"
   },
   {
     "id": "steam-29",
-    "title": "Ranch Simulator: Build, Hunt, Farm",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/98e52d9cf4913fdb494228e3c7f8e8153b6e0dcf/capsule_231x87_alt_assets_7.jpg?t=1779729751",
+    "title": "Teamfight Manager 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3009300/22a695164eb3a76e44d4183a4dd492d2f1b4a7a0/capsule_231x87.jpg?t=1779952072",
     "original_price": "N/A",
     "final_price": 0.0,
     "discount_percent": 0,
-    "url": "https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/"
+    "url": "https://store.steampowered.com/app/3009300/Teamfight_Manager_2/"
   }
 ]
